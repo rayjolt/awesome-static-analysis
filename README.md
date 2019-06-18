@@ -367,6 +367,7 @@ Also check out the sister project, [awesome-dynamic-analysis](https://github.com
 * [radon](https://github.com/rubik/radon) - a Python tool that computes various metrics from the source code
 * [vulture](https://github.com/jendrikseipp/vulture) - find unused classes, functions and variables in Python code
 * [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - the strictest and most opinionated python linter ever
+* [Wily](https://github.com/tonybaloney/wily) - a Python application for tracking, reporting on timing and complexity in tests and applications
 * [xenon](https://github.com/rubik/xenon) - monitor code complexity using [`radon`](https://github.com/rubik/radon)
 
 ## Python wrappers
